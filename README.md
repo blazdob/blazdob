@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blaž Dobravec
 - 👀 I’m interested in new advancements in Machine learning and Artificial intelligence.
-- 🌱 I’m currently learning how to embed information (prior knowledge) into neural networks in order to make the m more explainable.
+- 🌱 I’m currently doing a PhD on how to embed implicit information (prior contextual knowledge) into neural networks in order to make them more interpretable.
 - 💞️ I’m looking to collaborate on anything ;).
 
 <!---
