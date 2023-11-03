@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blaž Dobravec
 - 👀 I’m interested in new advancements in Machine learning and Artificial intelligence.
-- 🌱 I’m currently doing a PhD on how to embed implicit information (prior contextual knowledge) into neural networks in order to make them more interpretable.
-- 💞️ I’m looking to collaborate on anything ;).
+- 🌱 I’m currently doing a PhD focused on Concept identification and Explainable Reinforcement Learning.
+- 💞️ I’m looking to collaborate on my focus topics, but am prepared to listen to interesting ideas ;).
 
 <!---
 blazdob/blazdob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
