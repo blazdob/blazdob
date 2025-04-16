@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blaž Dobravec
 - 👀 I’m interested in new advancements in Machine learning and Artificial intelligence.
-- 🌱 I’m currently doing a PhD focused on Concept identification and Explainable Reinforcement Learning.
+- 🌱 I’m currently doing a PhD focused on Temporal Abstractions and Explainable Reinforcement Learning. I love to do awesome things with timeseries data.
 - 💞️ I’m looking to collaborate on my focus topics, but am prepared to listen to interesting ideas ;).
 
 <!---
